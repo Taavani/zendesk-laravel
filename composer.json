@@ -1,7 +1,7 @@
 {
     "name": "huddledigital/zendesk-laravel",
     "type": "library",
-    "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
+    "description": "Laravel wrapper for zendesk/zendesk_api_client_php package, Local clone.",
     "keywords": [
         "zendesk"
     ],
